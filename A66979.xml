@@ -1,0 +1,650 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at Salters-Hall to the Societies for Reformation of Manners, May 31, 1697 by John Woodhouse.</title>
+            <author>Woodhouse, John, d. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66979</idno>
+            <idno type="STC">Wing W3463</idno>
+            <idno type="STC">ESTC R26398</idno>
+            <idno type="EEBO-CITATION">09452366</idno>
+            <idno type="OCLC">ocm 09452366</idno>
+            <idno type="VID">43146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43146)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1321:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at Salters-Hall to the Societies for Reformation of Manners, May 31, 1697 by John Woodhouse.</title>
+                  <author>Woodhouse, John, d. 1700.</author>
+               </titleStmt>
+               <extent>vi, 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Lawrence,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Haggai II, 4 --  Sermons.</term>
+               <term>Conduct of life --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43146:1"/>
+            <pb facs="tcp:43146:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd at SALTERS-HALL, TO THE SOCIETIES FOR <hi>Reformation of Manners,</hi> MAY 31. 1697.</p>
+            <p>By <hi>JOHN WOODHO<g ref="char:V">Ʋ</g>SE.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Lawrence,</hi> at the <hi>Angel</hi> in the <hi>Poultry,</hi> over-againſt the <hi>Compter.</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:43146:2"/>
+            <pb n="i" facs="tcp:43146:2"/>
+            <head>TO THE Worthy MEMBERS OF THE SOCIETIES FOR THE <hi>Reformation of Manners,</hi> In the CITIES of London <hi>and</hi> Weſtminſter.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <hi>SHould I tell you. with what Difficulty I was prevail'd upon to Preach the enſuing Sermon before you; and with what greater to Print it, tho' at your De<g ref="char:EOLhyphen"/>ſire;
+<pb n="ii" facs="tcp:43146:3"/> I ſhould take up the trite Apology commonly uſed in this Caſe; and cannot reaſonably hope to make it paſs for bet<g ref="char:EOLhyphen"/>ter.</hi>
+            </p>
+            <p>
+               <hi>The Averſions I overcame, in coming to this Town, to Settle here, croſs to all the pleaſing Deſigns I had formed of a more a<g ref="char:EOLhyphen"/>greeable Serviceableneſs in a lower Sphere were not much greater<g ref="char:punc">▪</g> than thoſe I ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> juſtly conceived against appearing before you, on ſo Particular and ſo Publick a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Occaſion. This Sermon was One of the Thre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I Preached in leſs than Thirty Hours, On<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the Seven hard Services put upon me, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eight Days, in a Time when the Pub<g ref="char:EOLhyphen"/>lick, and mine own Private Affairs, al<g ref="char:EOLhyphen"/>low'd me not One whole uninterrupted Day for all of them. And by this time you wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ceaſe to wonder, why your Deſires, and others, to Print it, were ſo grievous to me did ſo break my Sleep, and diſorder the in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> firm State of my Body and Mind. I thank fully own, the great Humanity of ſome o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you; who, when you heard the true Stat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of my Caſe, that I neither write, nor uſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> any Notes in Preaching, nor have done fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="iii" facs="tcp:43146:3"/> many Years, and having my Thoughts ſo many Days after, taken up with freſh and various Diſcourſes. on Subjects I had never (to my knowledge) Preached on before; and had not been Maſter of any time conſiderable, to write, or reflect upon, and refreſh my Memory (not the most faith<g ref="char:EOLhyphen"/>ful) were pleaſed to interpoſe for my Ex<g ref="char:EOLhyphen"/>cuſe.</hi>
+            </p>
+            <p>
+               <hi>But when I was told, ſeveral Copies were tranſcribed, by Perſons that wrote after me; and that if I would not, others would Print, whoſe Copies I could not procure ſo much as a Sight of, nor had Hopes of, otherwiſe than Sheet by Sheet, as Printed off, and past Alteration; my most Intelligent Friends told me, I must ſubmit to do it, as one imperfect Copy would enable me, notwithſtanding my (long indulged) Averſion to be ſeen in Print.</hi>
+            </p>
+            <p>
+               <hi>Had thoſe of you that know me, known me, as well as I know my ſelf, you would have had leſs Reaſon to ſollicite this Trou<g ref="char:EOLhyphen"/>ble to me, your ſelves, and others; but ſince you ſay you differ from me, I
+<pb n="iv" facs="tcp:43146:4"/> have at last ſubmitted to you. And, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to mention the Deference I have to thoſe of you, that are of my own Perſwaſion; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> must add, that the Veneration I have for ſuch valuable and uſeful Members of the</hi> Church of England (<hi>as others of you are known to be), is ſo agreeable to the Temper and Affection, I have long had to<g ref="char:EOLhyphen"/>wards the Reverend and Pious Clergy o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that Communion (with whom I have al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> along held ſome Communion, and Brotherly Converſation) that it would have bee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſome force upon my ſelf, to deny you any thing I could do, toward the Encourage<g ref="char:EOLhyphen"/>ment of others, to aid you in ſo good <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Work, as that wherein you are ſo happily united.</hi>
+            </p>
+            <p>
+               <hi>In a word, it is not without great Sa<g ref="char:EOLhyphen"/>tisfaction that I find (ſince I was before you) that the many Officers, who joyne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> together, to inſpect the Markets, to find out Drunkards, Swearers, and Curſers, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> formerly ſwarm'd there, returned with<g ref="char:EOLhyphen"/>out the Diſcovery of any Criminal of thoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kinds.</hi>
+            </p>
+            <pb n="v" facs="tcp:43146:4"/>
+            <p>
+               <hi>And I am well pleaſed with the Hopes I have, of ſeeing in Publick, a ſhort Scheme of thoſe excellent Models; of the Laws you execute, of the Rules that di<g ref="char:EOLhyphen"/>rect and govern your ſelves, and Officers, in this ſucceſsful <g ref="char:V">Ʋ</g>ndertaking; which may be of greateſt <g ref="char:V">Ʋ</g>ſe, to direct and animate thoſe in Places diſtant from you; to at<g ref="char:EOLhyphen"/>tempt there, what you have more than be<g ref="char:EOLhyphen"/>gun here.</hi>
+            </p>
+            <p>
+               <hi>May our Love, and <g ref="char:V">Ʋ</g>nion, grow up the better, by that of GOD, and true Good-neſs, we ſee in one another! And may your Converſe together (though under dif<g ref="char:EOLhyphen"/>ferent Perſwaſions in leſſer Matters) tell you, you are none of you, the Men, which ſome of both ſides have repreſented you. May the Exemplary Piety of your Fami<g ref="char:EOLhyphen"/>lies, tell the World, that Divine Ser<g ref="char:EOLhyphen"/>vice is not confined to Conſecrated Pla<g ref="char:EOLhyphen"/>ces!</hi>
+            </p>
+            <p>
+               <hi>That GOD would further unite you, keep your Hand to the Plough, and ena<g ref="char:EOLhyphen"/>ble
+<pb n="vi" facs="tcp:43146:5"/> you to perfect, what you have be<g ref="char:EOLhyphen"/>gun, is, and ſhall be the Hearty Prayer of,</hi>
+            </p>
+            <closer>
+               <salute>GENTLEMEN,</salute> 
+               <signed>Your true Honourer, and Faithful Servant, J. WOODHOUSE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:43146:5"/>
+            <epigraph>
+               <bibl>HAGGAI ii. 4.</bibl>
+               <q>Yet now be ſtrong, O Zerub<g ref="char:EOLhyphen"/>babel, ſaith the Lord; and be ſtrong, O Joſhua, Son of Joſedech, the High-Priest; and be ſtrong all ye People of the Land, ſaith the Lord, and work: For I am with you, ſaith the Lord of Hoſts.</q>
+            </epigraph>
+            <p>THE Buſineſs of this Day, is not only to afflict our Souls for our Sins, and the crying Sins of our Land, and to ſtand in the Gap to appeaſe an angry GOD, that ſeems up<g ref="char:EOLhyphen"/>on his Way to ruine us; but, if it may be,
+<pb n="2" facs="tcp:43146:6"/> to ſtir up a Spirit for Reformation of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lives and Manners of the Generatio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wherein we live; without which we ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have ſmall Expectation, either of the re<g ref="char:EOLhyphen"/>moval of the Judgments we feel, or th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preventing thoſe which we foreſee, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fear may be coming upon us. In orde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the more effectual furtherance of ſo ex<g ref="char:EOLhyphen"/>cellent, ſo uſeful, ſo beneficial a Work, let your Thoughts be attentive to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Counſels in the Text, <hi>Yet now be ſtrong O Zerubbabel,</hi> &amp;c.</p>
+            <p>That you may ſee the tendency th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Words have, to promote the Work o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Day, look a little back upon the for<g ref="char:EOLhyphen"/>mer part of this Prophecy, and the Hi<g ref="char:EOLhyphen"/>ſtory of the Times immediately forego<g ref="char:EOLhyphen"/>ing. You will find in ſhort, when Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had delivered his People out of their long and doleful Captivity, and ſtirred up th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King, under whom they were Captive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to give them leave to build their Temple and to ſet up his Worſhip there; to purge out Corruptions, and make a General Re<g ref="char:EOLhyphen"/>formation; this Bleſſed Work, ſo need<g ref="char:EOLhyphen"/>ful and excellent in itſelf, and ſo muc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be deſired by all; yet met with many Checks, and Stops.</p>
+            <pb n="3" facs="tcp:43146:6"/>
+            <p>It was encouraged, at firſt, by the fa<g ref="char:EOLhyphen"/>med <hi>Cyrus;</hi> but afterwards obſtructed by <hi>Cambyſes,</hi> whilſt Vice-Roy to his Fa<g ref="char:EOLhyphen"/>ther, and whilſt King himſelf; and neg<g ref="char:EOLhyphen"/>lected near two Years, in the time of <hi>Darius Hyſtaſpes:</hi> As may be learn'd from the Sacred Chronology of <hi>Ezra,</hi> and <hi>Nehemiah,</hi> and others; (which I can<g ref="char:EOLhyphen"/>not now turn you to.) But at the time of this Prophet's appearing, it was again revived, and a freſh encouraged; Leave was granted to ſet about it, and excellent Men Authorized to Conduct it: And yet it met with great Oppoſition from the Cowardize of many, and the Coldneſs, and Covetouſneſs of others; who were more bent upon their own private Af<g ref="char:EOLhyphen"/>fairs, their Pomp and Luxury, than what concern'd the Publick Weal; who would do their own Buſineſs firſt, and God's afterwards: As appears from Chapter the Firſt, Verſe the Second: <hi>This People ſay, The time is not come, the time that the Lord's Houſe ſhould be built:</hi> We muſt wait for a more favourable Juncture; the Minds of Men are not diſpoſed to it. Whereupon the Prophet reaſons the Caſe
+<pb n="4" facs="tcp:43146:7"/> with them, Verſe the Fourth, <hi>Is it tim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for you to dwell in your Cieled Houſes,</hi> (ſay he) <hi>and this Houſe lie waſte? qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> By the Lord you have been preſerved in, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brought out of <hi>Babylon:</hi> You think it a good time to Build; nay, to C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>el (<hi>i. e.</hi> to Arch, with coſtly Wainſcot, curiouſly carved, richly adorned, and fairly beau<g ref="char:EOLhyphen"/>tified) your own Houſes; (perhaps more than one a piece, a City-Houſe, and a Country-Houſe) for your Pleaſure and Diverſion (for the Word is plural); you laviſh out your Treaſure, in Pomp, and Senſuality; (for no doubt their Ways o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Living were anſwerable to their coſtly Cielings) and yet can ſpare nothing to<g ref="char:EOLhyphen"/>wards my Houſe, that lies waſte: You can live without a Temple, an Altar, a Sacrifice, ſo you may but enjoy your Worldly Eaſe and Grandeur, your Ani<g ref="char:EOLhyphen"/>mal, Senſual Satisfactions: What do you owe ſo much to your ſelves, and ſo lit<g ref="char:EOLhyphen"/>tle to your God, who hath but now deli<g ref="char:EOLhyphen"/>vered you? What, laviſh out ſo much upon your Bodies, and ſpare nothing fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your own, and others Souls? Muſt my Worſhip be neglected, and Men left un
+<pb n="5" facs="tcp:43146:7"/> reformed, whilſt Wickedneſs is connived at, and every-where perpetrated?</p>
+            <p>What ſhall be done in ſuch a Juncture? The wiſe God, under this diſcouraging State of Things, raiſes up, and ſends out, two Prophets, in the ſame Year, upon much the ſame Errand, to ſtir up, and invigorate the Hearts of theſe Men in this Affair, that they, and their Brethren, had ſo little Heart to: They were <hi>Haggai,</hi> and <hi>Zechariah.</hi> And what does <hi>Haggai</hi> do, but addreſs to all Sorts, in a very particular, and pungent Manner, to ſtir them up to this needful, but neglected Work.</p>
+            <p>And how vigorouſly he addreſs'd him<g ref="char:EOLhyphen"/>ſelf to this Undertaking, let the Text tell.</p>
+            <p>
+               <hi>Yet now be ſtrong, O Zerubbabel,</hi> &amp;c.</p>
+            <p>The Words are a vehement Excitation, with particular Application to the Gover<g ref="char:EOLhyphen"/>nours, Civil, and Eccleſiaſtical, and all the People of the Land. How forcible, and pungent, are ſuch Perſonal Addreſſes? The good Prophet ſpeaks like one in Ear<g ref="char:EOLhyphen"/>neſt; that he might (as he did) en<g ref="char:EOLhyphen"/>gage them to be ſo too. May I be able to do likewiſe.</p>
+            <pb n="6" facs="tcp:43146:8"/>
+            <p>Not to trouble you with any Logica<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Analyſis of the Words, which would (in this Caſe) only furniſh you with Terms harder than the Text; I ſhall endeavour plainly to Paraphraſe them to you; pro<g ref="char:EOLhyphen"/>poſe their Sence to a clear View; obſerve ſome Things from them; and make ſome Improvement thereof, in favour of the Work of the Day; and do what I can to<g ref="char:EOLhyphen"/>wards the furtherance of ſo deſirable a Work, as is the Reformation of the Lives and Manners, of the diſſolute Age we live in.</p>
+            <p>Let us take the Words as they lie <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: And now; nevertheleſs, now <hi>yet now; i. e.</hi> under, and againſt all theſe diſcouraging Difficulties, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Be ſtrong;</hi> be ſtout: As <hi>Mal.</hi> 2. 13. So as to pre<g ref="char:EOLhyphen"/>vail. <hi>Non tantum fortis ſed prevaluit<g ref="char:punc">▪</g>
+               </hi> The <hi>Septuagint</hi> renders it by Words of like Importance, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Both <hi>Hebrew,</hi> and <hi>Greek,</hi> import the putting out the Vigour we have, and the Corroboration of that Strength; yea to wax ſtrong, and prevail in our Under taking: It denotes that true Fortitude by which we purſue, without daſtardly
+<pb n="7" facs="tcp:43146:8"/> Fear, what is moſt difficult to obtain, mau<g ref="char:EOLhyphen"/>gre all the Oppoſition to the contrary; according to that, <hi>Be ſtrong, and of good Courage, fear not, nor be afraid,</hi> Deut. 31. 6, 7.</p>
+            <p>If you ask, Who he addreſs'd thus to? the Text tells you, to <hi>Zerubbabel</hi> firſt; he was their Governour; not Supream, but Subordinate: For what he did, was under the Authority and Licenſe of the King, which renders our Text leſs For<g ref="char:EOLhyphen"/>reign to the Occaſion. I need not tell you, my Errand is to Magiſtrates, not Supream, but Subordinate; ſo was our Prophets alſo. It was, Secondly, to <hi>Jo<g ref="char:EOLhyphen"/>ſhua, the</hi> LORD'<hi>s High-Priest:</hi> A good Man, no doubt; for <hi>Satan was got to his Right-hand,</hi> [his Working-hand] <hi>to reſist him,</hi> Zech. 3. 1. The Governours in Ci<g ref="char:EOLhyphen"/>vil Matters, the Governours in Sacred Matters, they muſt both be ſtrong, get and ſtir up ſuch a Spirit, as will encounter and bear down all Difficulties.</p>
+            <p>Thirdly, His Errand was to <hi>the People:</hi> What to ſome of the People? Yea, to <hi>all</hi> of them. Reformation-Work, is a Work that needs many Hands; therefore, ſays
+<pb n="8" facs="tcp:43146:9"/> he, <hi>All ye People of the Land be ſtrong</hi> He does not ſo much as diſtinguiſh between the Sexes, or Sects among them; all yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> People of the Land, whatever elſe they differed in, whether in Opinions, or Pra<g ref="char:EOLhyphen"/>ctices, or Religious Rites, they muſt all unite in this, all joyn in this. His Exci<g ref="char:EOLhyphen"/>tation you ſee was to Courage and Forti<g ref="char:EOLhyphen"/>tude, and the Application was to Civil and Eccleſiaſtical Adminiſtrators, and to all the People of the Land; What was all this for? The Words in the Text are, <hi>And work.</hi>
+            </p>
+            <p>I confeſs, it ſtartled me at firſt, and made me think of changing my Text; becauſe it ſeems, at firſt view, to refer to Bodily Labour, ſuch as is mentioned, <hi>ch. 1. 8. Go up to the Mountains, and bring Wood<g ref="char:punc">▪</g> i. e.</hi> hew, <hi>and build the Houſe:</hi> But turn<g ref="char:EOLhyphen"/>ing to the <hi>Hebrew,</hi> I found the Word us'd of ſuch a <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which ſignifies prima<g ref="char:EOLhyphen"/>rily, <hi>Fecit, effecit, per<g ref="char:EOLhyphen"/>fecit, abſolvit, ad cer<g ref="char:EOLhyphen"/>tum uſum aptavit, di<g ref="char:EOLhyphen"/>ſpoſuit:</hi> As Philologers ſay.</note> Nature, as that it no way limits it to Bodily La<g ref="char:EOLhyphen"/>bour, the Work of the Hand; and much leſs when by a familiar Hypozeugma, it is to be applied to <hi>Zerubbabel,</hi> the Governour,
+<pb n="9" facs="tcp:43146:9"/> and to <hi>Joſhua,</hi> the Lord's High-Prieſt: Who cannot be thought to be excited to any Action in this Caſe, but what became <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem as Governours, Civil, and Sacred; and then the import of the Word is plainly this: Let every one in his Place, and Station, ſet to the Buſineſs in hand, Governours as Governours, and all the People of the Land, in what Capacity ſo<g ref="char:EOLhyphen"/>ever they be, to further the Work; let Heads, Hearts, and Hands, be all employ<g ref="char:EOLhyphen"/>ed, let every one readily embrace, and throughly improve ſuch Opportunities as offer themſelves; nay, ſeek out Seaſons for this Service.</p>
+            <p>The Text, indeed, ſeems to lead pri<g ref="char:EOLhyphen"/>marily to the Work of the Temple, which was their firſt Work: For it was to no purpoſe to talk of Religion, and Worſhip, in the Temple, 'till there was a Temple to worſhip in; and to talk of the Refor<g ref="char:EOLhyphen"/>mation of the Lives and Manners of the People, 'till there was an Eſtabliſhment of Religion, to regulate them by: There<g ref="char:EOLhyphen"/>fore I turned my Thoughts to the other Prophet <hi>Zachary;</hi> who was raiſed up in the ſame Year, and within two Months
+<pb n="10" facs="tcp:43146:10"/> of <hi>Haggai:</hi> View but the firſt Verſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> each Prophecy, and you'll ſoon ſee, whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ther there was not more intended in thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commiſſion, than their Care of Buildin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Temple: For I ſoon found, that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they were both engaged in the Buildin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Temple, yet they had more i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Commiſſion; (if we may judge o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Commiſſion, by the unrebuked Exe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cution thereof;) for in <hi>Zech.</hi> 1. 3. h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> calls them to turn: <hi>Turn ye unto me, ſait<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord of Hoſts.</hi> And in the Fourt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Verſe, <hi>Turn ye now from your evil Ways and from your evil Doings.</hi> There wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reformation of Life, and Manners: Ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe nothing is ſaid of that in the Text, look <hi>Zech.</hi> 5. 3, 4. where the Im<g ref="char:EOLhyphen"/>morality of Mens Lives, in the Inſtance<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <hi>Stealing,</hi> and <hi>Swearing,</hi> are ſtruck a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by this Prophet; who, doubtleſs, acte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not beyond his Commiſſion. And w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> muſt have great Charity, if we can be<g ref="char:EOLhyphen"/>lieve, that theſe were all the Immoralities amongſt theſe People, tho' no more are mentioned in expreſs Terms in that place<g ref="char:punc">▪</g> becauſe you read of many more that need<g ref="char:EOLhyphen"/>ed Reforming, <hi>Chap. 7. 9, 10, 11 Verſes</hi>
+               <pb n="11" facs="tcp:43146:10"/> After all this, what does the Prophet do, but add Inforcement to this Encourage<g ref="char:EOLhyphen"/>ment he had given, and that by telling them, <hi>The Lord was with them:</hi> and gi<g ref="char:EOLhyphen"/>ving them God's Word for it. <hi>I am with you, ſaith the Lord;</hi> and I am with you as the <hi>Lord of Hoſts;</hi> as a God All-ſuffi<g ref="char:EOLhyphen"/>cient to direct you, to ſupport you in your Work, under all the Difficulties you have to encounter, and to reward you for your Work, whatever the Succeſs be: Duty is yours, Succeſs is mine; but your Reward ſhall be ſure, whatſoever the Iſſue may be: Do your part, truſt my part to me, and expect your Recom<g ref="char:EOLhyphen"/>pence from me; <hi>Your Labour ſhall not be in vain in the Lord.</hi>
+            </p>
+            <p>The Words thus Explained, will, with<g ref="char:EOLhyphen"/>out any violence, furniſh us with theſe Obſervables, that are not unſuitable to the Buſineſs we are Convened about.</p>
+            <p>I. Firſt Doctrine, from the <hi>Hebrew</hi> Par<g ref="char:EOLhyphen"/>ticle, the firſt Word in the Text, which we tranſlate, <hi>Yet now;</hi> or, <hi>Nevertheleſs,</hi> is plainly this:</p>
+            <p>That Works of Reformation (tho' but of God's Houſe, of the Lives and Man<g ref="char:EOLhyphen"/>ners
+<pb n="12" facs="tcp:43146:11"/> of Men, <hi>Thieves, Swearers,</hi> &amp;c.) do, and may meet with very great Op<g ref="char:EOLhyphen"/>poſition: What need was there elſe of ſuch a ſtirring up to be ſtrong, vigorous, and valiant, if there were not Difficulties to encounter?</p>
+            <p>II. <hi>Second Doctrine.</hi> That when Re<g ref="char:EOLhyphen"/>formers of the Lives and Manners of Men, do meet with great Oppoſition, are beſet with great Difficulties, and Danger, their Souls are apt to be diſmayed, they are apt to ſink down under their Burden, and to give out, and ſay, To what purpoſe ſhould we labour, harraſs, and hazard our ſelves any further; Wickedneſs is got above our controul?</p>
+            <p>III. <hi>Third Doctrine.</hi> When Men con<g ref="char:EOLhyphen"/>cerned in Reformation, do meet with Difficulties, and Oppoſition, enough to diſcourage, and ſink their Spirits, they ſhould be ſtirred up by others, and they ſhould ſtir up themſelves; that they might be able to proſecute their Work with good effect. <hi>Be ſtrong, O Zerubba<g ref="char:EOLhyphen"/>bel,</hi> &amp;c. It notes both his ſtirring up himſelf, and his being willing to be ſtir<g ref="char:EOLhyphen"/>red up by others.</p>
+            <pb n="13" facs="tcp:43146:11"/>
+            <p>IV. <hi>Fourth Doctrine.</hi> 'Tis plain, that the Work of Reformation, that is accom<g ref="char:EOLhyphen"/>panied with ſo many Difficulties, as it is apt to be, hath need of all Hands to help it on; it is not a Work of Magiſtrates, or Officers only (tho' they are obliged to be ſtricter than other Men): But 'tis a Work in which all the People of the Land ſhould engage, as one Man. Don't ſhut your ſelf out from the Work, when God gives you an Opportunity to engage in it.</p>
+            <p>V. <hi>Fifth Doctrine.</hi> That 'tis a Matter of great Encouragement to encounter couragiouſly all the Difficulties we meet with, in ſo good a Work, that God will be with us; and one God is enough for us, ſince he is All-ſufficient.</p>
+            <p>I may not pretend to handle all, or many of theſe Doctrines, in the Minutes your Patience doth allow me: Yet the Occaſion cannot well ſpare any one of them. Let me fix your Thoughts upon the Third, which takes in the main De<g ref="char:EOLhyphen"/>ſign of the Text; and I will endeavour to throw the other Four into ſome part, or other, of the Proſecution of that.</p>
+            <pb n="14" facs="tcp:43146:12"/>
+            <p>
+               <hi>Doct.</hi> That when Men concerned in Reformation Work, do meet with Diffi<g ref="char:EOLhyphen"/>culties and Oppoſition, enough to diſ<g ref="char:EOLhyphen"/>courage and ſink their Spirits, they ſhould ſtir up themſelves, and ſhould be ſtirred up, ſpirited, and invigorated by others, that they may be able to encounter all the Difficulties they may meet with in the Proſecution of their excellent Deſigns.</p>
+            <p>In the handling of this Point, I will Briefly hint at ſome Topicks, from whence I might evidence, 1. The <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, That it is ſo. 2. Argue the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; Why, or whence it is ſo: Becauſe my main Deſign is at the Application; in which I would not prevent my ſelf, nor weary you. For the Firſt, take a Text, or two, <hi>Joſh.</hi> 1. 6, 7, 9. <hi>Moſes</hi> being dead, and there being need of a Man to conduct God's <hi>Iſrael,</hi> to uphold, and to reform their Religion, Lives, and Manners, the Lord ſpake un<g ref="char:EOLhyphen"/>to <hi>Joſhua, Joſh.</hi> 1. 6. and ſays, <hi>Be ſtrong, and of a good Courage.</hi> Here is another Word, <hi>viz.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, added to that which is in our Text, and is well enough tranſlated, <hi>Be of good Courage.</hi> In another Verſe, <hi>Only be thou ſtrong and couragious:</hi> On<g ref="char:EOLhyphen"/>ly
+<pb n="15" facs="tcp:43146:12"/> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: as if he had nothing elſe to do. And here<g ref="char:punc">▪</g> another Word is added to both the former Words, and hath a vehement Emphaſis attending it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Multum, abun<g ref="char:EOLhyphen"/>danter, copioſe, valde, majorem in modum.</hi> It ſignifies Might, Vehemency, and Dili<g ref="char:EOLhyphen"/>gence, all one can do, one's utmoſt Ef<g ref="char:EOLhyphen"/>forts. Verſe the Ninth, <hi>Be ſtrong, and of good Courage,</hi> as before; but adds, [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>Be not afraid, nor diſmay'd;</hi> have a Co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rage that deſpiſeth Fear, that gives not back, be the Diffi<g ref="char:EOLhyphen"/>culties what they will; <hi>Being nothing ter<g ref="char:EOLhyphen"/>rified by your Adverſaries:</hi> As <hi>Paul</hi> words it, <hi>Phil.</hi> 1. 28. agreeably to both the <hi>He<g ref="char:EOLhyphen"/>brew</hi> Words. God was pleaſed to uſe in this Excitation of <hi>Joſhua:</hi> He was a Man of an excellent Spirit; yet ſee how he was treated. May be, it may tempt ſome Men to think meanly of him, becauſe of the Treatment he had; but if the beſt of Men had not need of help to ſupport and invigorate their Spirits, under ſuch De<g ref="char:EOLhyphen"/>ſigns as this, the Spirit of God would ne<g ref="char:EOLhyphen"/>ver have beſtowed ſo much Chafing, and Excitation, on ſuch a Man as <hi>Joſhua.</hi> A<g ref="char:EOLhyphen"/>gain, <hi>Haggai</hi> 1. 14, 15. 'tis ſaid, <hi>The
+<pb n="16" facs="tcp:43146:13"/> Lord ſtirred up the Spirit of Zerubbabel and of Joſhua, and of the People.</hi> As if that was not enough, God ſends again in the Seventh Month, <hi>Chap.</hi> 2. 1. on the ſame Errand as the Text hath told you: <hi>For the Word of the Lord came to Haggai, ſpeak now to Zerubbabel, be ſtrong,</hi> &amp;c. Here let me obviate an Objection, that I thought more ſolemnly to have conſi<g ref="char:EOLhyphen"/>dered.</p>
+            <p>May be, ſome that are ill Interpreters of well-meaning Minds, may think, that that ſuch a Call as this, to Courage and Fortitude, and an Heroick Magnanimity<g ref="char:punc">▪</g> doth inſinuate, as if the Gentlemen en<g ref="char:EOLhyphen"/>gaged in our Reformation, were Men of mean Spirits, and wanted Courage; Why elſe make I ſo much ado about it?</p>
+            <p>But as I have no ſuch Thought in my Heart, and nothing but my Weak<g ref="char:EOLhyphen"/>neſs can betray me to be ſuſpected of a Deſign to inſinuate any ſuch thing; ſo both the Text, and the Evidence that other Scriptures have given to the Truth of the Doctrine, will take away that ſuſpicion: For if ſuch a Man as <hi>Joſhua,</hi> as <hi>Zerubbabel,</hi> as the High<g ref="char:punc">▪</g>
+               <pb n="17" facs="tcp:43146:13"/> Prieſt, needed it ſo often, it will be no diminution to thoſe that have undertaken this Great Work, to treat them as others ſuch great, and ſuch excellent Men have been treated, in Caſes not unlike.</p>
+            <p>The two firſt Doctrines ſhall be the two firſt Reaſons for the Proof and Con<g ref="char:EOLhyphen"/>firmation of this Doctrine. Why, or whence it is, that when Perſons concern<g ref="char:EOLhyphen"/>ed in Reformation do meet with Difficul<g ref="char:EOLhyphen"/>ties, and Oppoſitions, enough to diſcou<g ref="char:EOLhyphen"/>rage and daunt their Spirits in their Un<g ref="char:EOLhyphen"/>dertakings, they ſhould then ſtir up them<g ref="char:EOLhyphen"/>ſelves, and be ſtirred up by others, to proſecute the Work with all vigour, wax ſtronger and ſtronger, 'till they prevail over all that is in the Way.</p>
+            <p n="1">1. Becauſe there uſually (why might I not ſay always) ariſeth ſuch Dangers and Difficulties, as cannot be otherwiſe over<g ref="char:EOLhyphen"/>come. To this the Context ſpeaks fully, as I have ſhewed you, when I raiſed this as a Doctrine from it: But let Experience ſpeak, Did you ever read of a Reforma<g ref="char:EOLhyphen"/>tion, which was not thus embarraſſed, and incumbered? What Work did <hi>Noah</hi> find, in his Endeavours to reform the Old
+<pb n="18" facs="tcp:43146:14"/> World? Was it eaſier with <hi>Lot,</hi> in <hi>Sodom?</hi> If <hi>Joſias</hi> will reform his People, what Op<g ref="char:EOLhyphen"/>poſition doth he meet with; What a Force muſt he exert to <hi>cauſe</hi> them to do it? [2 <hi>Chron.</hi> 34.] If <hi>Nehemiah</hi> will put for<g ref="char:EOLhyphen"/>ward the Temple, reform the Sabbath, <hi>Tobias,</hi> and <hi>Sanballat,</hi> will turn every Stone, to diſmay him in it? Did our Sa<g ref="char:EOLhyphen"/>viour attempt the Redemption and Re<g ref="char:EOLhyphen"/>formation of Men? With what Fury did the Devil attack him? What Affronts do his Emiſſaries put upon him? What Snares do his Relations, and <hi>Peter</hi> him<g ref="char:EOLhyphen"/>ſelf, lay for him? <hi>Maſter, ſave thy ſelf.</hi> No doubt but our Reformers have had large Experience of this kind, from fair Friends, and quiet Neighbours, as well as boiſterous Criminals. In this Caſe, what can be done without Courage? Nay, what can ordinary Courage do? It is not for timerous, and faint-hearted Men, to en<g ref="char:EOLhyphen"/>gage in ſuch Enterprizes; the Spirit muſt be ſtirred up, ſurmount the Difficulties, or the Work will not be done.</p>
+            <p n="2">2. You muſt be ſtirr'd up, and invigo<g ref="char:EOLhyphen"/>rated, becauſe the Nature of Man needs it: The Imbecility of the Soul of Man
+<pb n="19" facs="tcp:43146:14"/> renders him liable to ſink under Diſcou<g ref="char:EOLhyphen"/>ragements. Our Fear is mightily advan<g ref="char:EOLhyphen"/>ced in our fallen State, and our Courage <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s much diminiſhed. What a brave, knowing, fearleſs Man was <hi>Adam,</hi> before his Fall! He could, upon Sight of the Creatures, give them Names, anſwering <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir Natures, and was as fearleſs as know<g ref="char:EOLhyphen"/>ing: But let him break off his Dependance from God, and you ſhall preſently find him playing the Fool, ſo as none but a Man almoſt bereft of Thoughts, could do: You will find him ſtruck with Fear, which Sin had let in upon him, hiding himſelf in the Thickets (a likely Shelter) from the Preſence of God. And as he loſt his Knowledge, he loſt his Courage; and we feel with what feeble Attacks we can reſiſt the Difficulties we meet withal; we are apt to be afraid, and diſmayed, and therefore our Courage muſt be excited, the Imbecility of our fallen Nature makes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t neceſſary.</p>
+            <p n="3">3. The Third Reaſon may be argued from the Capacity of the Soul; our Soul <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s capable of being excited: We have Fa<g ref="char:EOLhyphen"/>culties, and Powers, that may be excited,
+<pb n="20" facs="tcp:43146:15"/> and influenced by ſuch Objects, and Mo<g ref="char:punc">▪</g> tives, as may be laid before us; we f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> others may hearten us; we can che<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our ſelves under, and againſt Diſcourag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ments, that are not inſuperable; elſe th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Method of God by his Prophet, to ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> up <hi>Zerubbabel,</hi> &amp;c. had been a fruitle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Attempt. Take Heart, my Friends; Sha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the crowing, fighting Cock, clap h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wings, to ſtir up his Spirits and Vigou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and will not you? So that you ſee, with out more Enlargement, you have need t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtir up your ſelves, and ſuffer others t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtir you up in theſe Matters, if you conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> der, 1. The Difficulties that attend them 2. The Imbecility of your Nature und<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them. 3. The Capacity of your Soul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to be by theſe Methods fortified again<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them.</p>
+            <p>What Uſe may this Doctrine be of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us, in ſuch a Caſe as this? Is it ſo, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men concerned in Reformation do me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Difficulties, and Oppoſition, enoug<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to diſcourage, and ſink their Spirits, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſhould be ſtirred up by others, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſhould ſtir up themſelves, that the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may be able to proſecute this Work wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good effect.</p>
+            <pb n="21" facs="tcp:43146:15"/>
+            <p>I. Then, Firſt, it is of Reprehenſion <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſeveral ſorts of Perſons amongſt us.</p>
+            <p>1. To thoſe, to all thoſe, that I may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tile Neuters in theſe Matters; on neither <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ide, neither Criminals, nor yet Refor<g ref="char:EOLhyphen"/>mers, Men of <hi>Gallio</hi>'s Temper, That <hi>care for none of theſe things,</hi> Acts 18. 17. Let <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Name of God be blaſphemed by Cur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, and Swearing; let the Sabbath be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rofaned by Trading, by Fudling; let Adultery, and Whoredom, have their Courſe: What is that to them, they have other Buſineſs to mind, they will not be Buſie-bodies in other Mens Matters? Why ſhould they involve themſelves? Are they their Brothers Keepers? Hear what God ſays, and tremble under thy daring Folly, thy baſe Neutrality: <hi>Thou ſhalt not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate thy Brother, in thine Heart; thou ſhalt in any wiſe rebuke thy Neighbour, and not ſuf<g ref="char:EOLhyphen"/>fer Sin upon him,</hi> Lev. 19. 17. Is it a light Matter with thee, to neglect to re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uke thy Brother, thy Neighbour, when, in God's Account, it is hating him in thy Heart? which God hath let thee know is Murder, 1 <hi>John 3. 15. Whoſoever hateth his Brother, is a Murderer.</hi> Say not, I
+<pb n="22" facs="tcp:43146:16"/> put thee upon more than rebuking, even correcting and puniſhing of him: For the Word which we tranſlate in this plac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Rebuke,</hi> ſignifies to rebuke by Deeds, as well as Words, ſet as Judge, chaſtize and correct; as <hi>Pſal.</hi> 38. 1. Nay, the Word is doubled; in rebuking, thou ſhalt re<g ref="char:EOLhyphen"/>buke; in correcting, thou ſhalt correct to add the greater Emphaſis to enforce the Duty: Moreover, the Words which we tranſlate, <hi>Thou ſhalt not ſuffer Sin upon him;</hi> may be read, <hi>That thou bear no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sin for him;</hi> or, <hi>Take his Sin upon thee.</hi> It ſeems, the neglect of our Duty to him<g ref="char:punc">▪</g> in rebuking, correcting him, and reclaim<g ref="char:EOLhyphen"/>ing him from his Sins, makes us Parta<g ref="char:EOLhyphen"/>kers with him, both in his Sin and Pu<g ref="char:EOLhyphen"/>niſhment. And haſt not thou Sin enough of thine own, to anſwer for, that tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dareſt involve thy ſelf in other Men<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Guilt? Awake, awake, ſhake off thy loathſome Neutrality; conſidering,</p>
+            <p>
+               <hi>1st.</hi> It puts thee under the Diſlike of God. <hi>2dly,</hi> The Diſlike of good Men<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> And, <hi>3dly,</hi> The Contempt even of ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men.</p>
+            <pb n="23" facs="tcp:43146:16"/>
+            <p>1. It puts thee under the Diſlike of God; who cannot but take it ill at thy Hand: He hath not play'd the Neuter with thee. Hath he not given thee a Be<g ref="char:EOLhyphen"/>ing? and put thee into good Circum<g ref="char:EOLhyphen"/>ſtances? and made thee capable of his Ser<g ref="char:EOLhyphen"/>vice? Doth he not ſhew thee, that all thou art, and haſt, is his, by more Titles than one? And doth not Providence no<g ref="char:EOLhyphen"/>tifie to thee, <hi>The Lord hath</hi> now <hi>need of thee;</hi> to help to ſtem this Tide of Wic<g ref="char:EOLhyphen"/>kedneſs, that bears ſo hard upon us, in this Adulterous Generation? Hath he not enabled thee by good Laws, and excel<g ref="char:EOLhyphen"/>lent Magiſtrates, to do ſomething for him? And wilt thou ſtill excuſe thy ſelf? Oh! thou art loth to meddle, notwith<g ref="char:EOLhyphen"/>ſtanding thy Capacity, Ability, Opportu<g ref="char:EOLhyphen"/>nity to help the Lord againſt his daring Adverſaries! Well, if I muſt leave thee, (be thou one in the Magiſtracy, or Mini<g ref="char:EOLhyphen"/>ſtry, or one of the People;) if I muſt leave thee, as like the crafty <hi>Gallio,</hi> as I found thee, let me leave this with thee; That if thou wilt not <hi>come out to the help of the LORD,</hi> tho' it be <hi>against the Mighty,</hi> that ſupport Debauchery, the LORD
+<pb n="24" facs="tcp:43146:17"/> is like to overtake thee, <hi>Judges</hi> 5. 23.</p>
+            <p>Art thou afraid of the Ill-will, and fiery Fury of thy luſtful and angry Neighbour, and art thou not afraid of an angry God? What a Wretch art thou! Doſt thou know, dareſt thou think, what this means, and yet hold on in thy Neutral Temper<g ref="char:punc">▪</g> Read <hi>Zech.</hi> 1. 4, 5, 6. and do it at thy peril.</p>
+            <p>2. Thou art under the Diſlike of good Men, that are active for God in Reforma<g ref="char:EOLhyphen"/>tion-Work; they are troubled at it, and grieved for it, to ſee God diſhonour'd, De<g ref="char:EOLhyphen"/>bauchery perpetrated, and ſuch a Perſon as thou, (who haſt ſo many Advantages in thy Hand) ſtand by unconcern'd: Have God, and good Men, been every way ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kind to thee, done ſo much for thee, and do they expect this from thee? And will thou do nothing? What<g ref="char:punc">▪</g> not this little thing for them? Oh! where is thy Gratitude <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> What a vile Wretch art thou, that haſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> none?</p>
+            <p>3. Whatever Favour and Value tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hopeſt to conciliate to thy ſelf, with ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men, (that are impatient of the Refor<g ref="char:EOLhyphen"/>mation
+<pb n="25" facs="tcp:43146:17"/> of their Lives and Manners;) they will but contemn and deſpiſe thee, for thy baſe Neutrality; they cannot love thee, becauſe thou art not one of them; and they will deſpiſe thee, becauſe thou dareſt not appear againſt that in them, which they, and thou know, is bad in them. They have ſome confeſſed, aweful Reve<g ref="char:EOLhyphen"/>rence, to Men of Piety and Vertue<g ref="char:punc">▪</g> that dare to be good, and ſtand to it, and face all Oppoſitions and Reproaches, that ap<g ref="char:EOLhyphen"/>pear againſt it: They dare not to be wicked under a <hi>Cato</hi>'s Eye, in view of ſuch a Man as he; But how mean a thing art thou, in the Eyes of theſe vile Perſons, who dareſt do nothing againſt the Immo<g ref="char:EOLhyphen"/>ralities thou dareſt not act. Well, Sirs, what will you now do upon the whole Matter? Have you had no Concern, for the rebuking, correcting, and reforming of Drunkenneſs, Swearing, Curſing, Who<g ref="char:EOLhyphen"/>ring, Sabbath-breaking, Stealing, and ſuch like Wickedneſſes, which the Laws of the Land enable you to, and the good and excellent Magiſtrates of this Renowned City, encourage you in? And will you have none after all God, and Man, have
+<pb n="26" facs="tcp:43146:18"/> ſaid to you, and expect from you? Quit for ſhame, your ſluggiſh Poſt; out, up, and be doing, and be at ſome more Coſt and Pains; (it may put you to both) be<g ref="char:EOLhyphen"/>cauſe of the little you have yet done.</p>
+            <p>2. It reproves thoſe that are Loyter<g ref="char:EOLhyphen"/>ers in this painful Work. 'Tis a Work which, you hear, requires Strength and Vigour; a ſtirring up of Strength, ſuch as will prevail: <hi>Yet now be ſtrong,</hi> &amp;<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> Sinner, I muſt deal plainly with thee, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thou lay not out thy ſelf to ſome pur<g ref="char:EOLhyphen"/>poſe, to good purpoſe, to make ſome<g ref="char:EOLhyphen"/>what of it, thy idling Temper will entitl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee to an, <hi>Oh thou ſlothful, and wicke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Servant:</hi> Wicked, becauſe ſlothful, <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 25. 26. And thy Reward ſhall be ac<g ref="char:EOLhyphen"/>cording to thy Work. Read Verſe 3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> For the Curſe of the Lord cannot b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take hold of thee, if <hi>thou do his Work d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ceitfully: i. e.</hi> negligently, <hi>Jer.</hi> 48. 1<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> God, and thy Redeemer, have not brough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about the Work of thy Redemption, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch a negligent, loytering Way of Wor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing. Is this the beſt thou canſt, thou w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do for him, and at ſuch a needful Ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cture as this? We account an Eye-Se<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>vant
+<pb n="27" facs="tcp:43146:18"/> amongſt bad Servants; and well we may; they will not work longer than their Maſter looks on. I wiſh I knew how to perſwade thee to be an Eye-Ser<g ref="char:EOLhyphen"/>vant, to work diligently, tho' but whilſt thy Maſter looks on, and expects it from thee: For his Eye is always on thee, he ſees when thou ſhutteſt thine Eyes upon the Wickedneſs thou ſhouldeſt puniſh; and takeſt thine Eaſe, when Matters call thee to be up and doing: Remember thy Judge maintains a Spy in thy own Bo<g ref="char:EOLhyphen"/>ſome, that will tell of all thy Sloth, Cold<g ref="char:EOLhyphen"/>neſs, and Loytering in his Work, and Service.</p>
+            <p>3. It reproves thoſe that will not ſtir up themſelves, with all their Might and Vigour, when the Difficulties they la<g ref="char:EOLhyphen"/>bour under, are ready to diſpirit them. What not uſe and improve the Capacities you have? What ſit down before you have turned every Stone? Bear your Re<g ref="char:EOLhyphen"/>proof, and chide your daſtardly Spirits: ſtir up your ſelves at ſuch a rate, as you may not need the help of others, who will be backward enough to do it.</p>
+            <pb n="28" facs="tcp:43146:19"/>
+            <p>4. It reproves thoſe that will not endea<g ref="char:EOLhyphen"/>vour to ſtir up, and invigorate others to the Work, when they need it; whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Courage fails for want of it. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is one of the Works of our Sacred Fun<g ref="char:EOLhyphen"/>ction, <hi>Iſa.</hi> 58. 1. But it is not confine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to us. Our excellent Judges, Juſtices o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Peace, Stewards of Courts-Leet, <hi>c<g ref="char:punc">▪</g>
+               </hi> they bear a Teſtimony, they promote this Matter, as well as we.</p>
+            <p>V. <hi>And Laſtly,</hi> It reproves thoſe that take it ill, that will not bear to be exci<g ref="char:EOLhyphen"/>ted: It's a thing which Men do worſe bear, when they moſt need it. But 'ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not reaſonable to preſume, I am ſpeaking to many ſuch: What ſhould they do here on this Occaſion? And therefore let us en<g ref="char:EOLhyphen"/>deavour to improve it by way of Excita<g ref="char:EOLhyphen"/>tion, to ſuch a Work, at ſuch a Seaſon as this.</p>
+            <p>You ſee, by the Warrant of my Text, I have a juſtifying Occaſion to apply my ſelf,</p>
+            <p n="1">1. To thoſe who are Civil, [if] Sub<g ref="char:EOLhyphen"/>ordinate, Rulers, and Governours.</p>
+            <p n="2">2. To thoſe that are Sacred, and Eccle<g ref="char:EOLhyphen"/>ſiaſtical Governours, under the King; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well as,</p>
+            <p n="3">
+               <pb n="29" facs="tcp:43146:19"/>3. To all the People of the Land, of the City, and of the Country, into whoſe Hands, God, by his Providence, puts any Opportunity to execute good Laws, for the reſtraining Debaucheries of every kind: To thee, O <hi>Zerubbabel;</hi> to thee, O <hi>Joſhua;</hi> to you, O People of the Land, the Errand of my Text, and Doctrine comes: And O that I knew how to give it its Force: O that the good Spirit of God would give it its Authority and Power over all your Conſciences, that it might have an Effect upon all of us, as it had in <hi>Iſrael</hi>'s Day, on all of them.</p>
+            <p n="1">1. To thoſe of you that are in any Of<g ref="char:EOLhyphen"/>fices, appointed to execute theſe good Laws: Much I could ſay, to excite you to a zealous, prudent, impartial, diligent Application to your Work: There are Topicks for Arguments peculiar to your Caſes, your Commiſſions, your Oaths, the Truſt you have taken upon you, the Confidence our dread Sovereign, and his People, have in you, and the Expectati<g ref="char:EOLhyphen"/>ons all have from you. There are Coun<g ref="char:EOLhyphen"/>ſels proper and neceſſary to be taken, about dealing firſt with your own Hearts,
+<pb n="30" facs="tcp:43146:20"/> Houſes, and Converſations, in order to your more effectual Management of what you endeavour for others: And had I not been credibly inform'd, (by thoſe that dare not impoſe upon me) of the Conſci<g ref="char:EOLhyphen"/>entious Care that moſt of you have taken in theſe Things, I ſhould have preſumed to addreſs you with the Plainneſs that is natural to me, and as neceſſary on this Occaſion: But it is Matter of my Joy<g ref="char:punc">▪</g> that your Conduct, in theſe Things, hath ſo far ſuperſeded my Applications to you Go on, good Gentlemen, to ſignaliz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your ſelves to the End, as you have done in the Beginning; that the upriſing Ge<g ref="char:EOLhyphen"/>neration may call you Bleſſed, and bleſs God for you, as we do.</p>
+            <p n="2">2. To thoſe of, you my Brethren, that are as the Sons of the Prophets, that lik<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Haggai</hi> the Prophet, and <hi>Joſhua</hi> the Prieſt of the Lord, are, by the Sacred Tie o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your Honourable Function, under Obli<g ref="char:EOLunhyphen"/>gation <hi>to cry aloud, to lift up your Voices like Trumpets,</hi> Iſa. 38. 1. To excite all to every great, and good Work; eſpecially one that is ſo excellent in itſelf, ſo benefi<g ref="char:EOLunhyphen"/>cial to the World. Topicks are not to
+<pb n="31" facs="tcp:43146:20"/> ſeek, to ſtir you up to the Duty of your Place, in ſuch a Juncture as this: Did it not better become me, to learn of you, than preſume to preſcribe to you.</p>
+            <p n="3">3. But to you, O People of the Land, let me ſay, Up, and be doing; every Soul to its Poſt; this Work cannot be done without you. If no Criminal had been puniſh'd in <hi>Iſrael,</hi> but thoſe <hi>Moſes</hi> found in the Fact, how few had they been? Reformation calls for many; nay, I had almoſt ſaid, all Hands: I need call no other Vouchers than my Text and Doctrine.</p>
+            <p>And tho' I wave the Motives peculiar to Officers, Civil, and Sacred, on the Grounds I hinted; yet give me leave to offer ſome Inforcements, that may (if God pleaſe to give them their Weight with you) have a tendency to influence all the ſorts of Perſons, my Text, and the Occaſion warrant me to addreſs, by way of Excitation.</p>
+            <p n="1">1. Conſider how much of this good Work is already done, maugre all the Difficulties under which it at firſt la<g ref="char:EOLhyphen"/>boured.</p>
+            <p n="2">
+               <pb n="32" facs="tcp:43146:21"/>2. Conſider how much is yet to be done, which cannot be done without more Hands.</p>
+            <p n="3">3. How much Encouragement there lies in the Text, for every one to do his part, when God will be with him, and his Reward is ſure to him.</p>
+            <p>Firſt conſider for your Encouragement, what hath been done. Bleſſed be God, there is any thing done: You may ſee reaſon to joyn in this Thankſgiving, and take Heart to quit your ſelves like Men, in what remains to be done; if you pleaſe but to look back with me, upon ſome of the many Diſcouragements, and Obſtru<g ref="char:EOLhyphen"/>ctions, under which it at firſt laboured.</p>
+            <p n="1">1. It was done againſt all the Wicked<g ref="char:EOLhyphen"/>neſs, and Corruption, that is in the dege<g ref="char:EOLhyphen"/>nerate Natures of wicked Men; nay, of Corruption excited by the Devil, rooted and ſtrengthned into Habit; which is more than meer Nature; a ſecond Na<g ref="char:EOLhyphen"/>ture, worſe (if poſſible) than the firſt. The Luſts, and Paſſions, of every de<g ref="char:EOLhyphen"/>bauched, wicked Man, in Court, and City, are againſt the Work, and the Do<g ref="char:EOLhyphen"/>ers of it; and ſpirit them, in ſome Fits,
+<pb n="33" facs="tcp:43146:21"/> to deſign and endeavour thoſe deſperate Things, which may be Exerciſe to the greateſt Courage: Nay, 'tis a Wonder to me, no more violent Effects have been produced, from ſuch boiſterous Cauſes; to make thoſe that hear, to fear, and med<g ref="char:EOLhyphen"/>dle no more. Much of which is due to your prudent Conduct, in concealing the Names of thoſe that gave in the Informa<g ref="char:EOLhyphen"/>tions.</p>
+            <p n="2">2. There was another Difficulty, and that about the forming of theſe excellent Societies, out of Men of different Per<g ref="char:EOLhyphen"/>ſwaſions about Matters in Religion, and different Opinions about ſome Rites and Circumſtances of their Religion. Diffe<g ref="char:EOLhyphen"/>rences of ſmaller moment, have, by the Skill of <hi>Rome,</hi> and Hell, been ſo mana<g ref="char:EOLhyphen"/>ged, as to divide and imbitter the Hearts of good Men, both Miniſters, and Peo<g ref="char:EOLhyphen"/>ple, and render many of them uncapable of that Love and Union, which might ſubſerve many a Common Good; as yours hath, and doth, and is like (through Divine Goodneſs) further to do. We muſt own it to our Reproach, <g ref="char:punc">▪</g>that we ought to have ſet you a Copy of this
+<pb n="34" facs="tcp:43146:22"/> kind; and by our bearing with, and for<g ref="char:EOLhyphen"/>bearing of one another, in our leſſer Dif<g ref="char:EOLhyphen"/>ferences, have heartily joyned in thoſe Methods, that might promote the com<g ref="char:EOLhyphen"/>mon Intereſt, of our common Lord: How much more had this been to our Honour, than to revile-and reproach one another, on Account of theſe ſuppoſed little Differences.</p>
+            <p>But in this I muſt rebuke my ſelf, be<g ref="char:EOLhyphen"/>cauſe I have reaſon to hope, we, and our Brethren, that have a deep Sence of the ill Influences theſe Things have upon the Inwards, the Spirits, and Power of Reli<g ref="char:EOLhyphen"/>gion, are coming to a better Temper to<g ref="char:EOLhyphen"/>wards one another: May we write after your Copy, and laying aſide all Reſent<g ref="char:EOLhyphen"/>ments, and carnal Contentions, joyn in that, in which we are ſo well agreed, to promote the Intereſt of our great Maſter; verifying the old <hi>Irenick</hi> Saying<g ref="char:punc">▪</g> 
+               <hi>Opinio<g ref="char:EOLhyphen"/>num varietas &amp; Opinantium unitas non ſunt,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Oh! for a fuller Meaſure of that Spirit of Chriſt, of pure Chriſtianity, which would facilitate that to us, it hath already done to you.</p>
+            <pb n="35" facs="tcp:43146:22"/>
+            <p>3. Another great Impediment aroſe from the Iniquity of the late Reigns. It's not unknown to many of you, that have read the Secret Hiſtories of thoſe Reigns, or the more Authentick Memoirs, and Collections thereof; that the daring De<g ref="char:EOLhyphen"/>ſigns of the Gunpowder-Traitors, <hi>Anno</hi> 1605, had ſuch an Influence upon that fearful Prince, King <hi>James</hi> the Firſt, that few, if any, true Steps, towards Refor<g ref="char:EOLhyphen"/>mation, were ever ſince advanced by him, or his. If this were a place for it, I could eaſily tell you, that favour to Popery and Profaneneſs, became Governing Principles in our <hi>Britiſh</hi> Politicks: Witneſs the trinkling, mean Condeſcention of that Prince to Papiſts; nay, to the Pope him<g ref="char:EOLhyphen"/>ſelf, under the abuſive Treaty for the <hi>In<g ref="char:EOLhyphen"/>fanta</hi> of <hi>Spain,</hi> and the Proclamation for Looſe and Licentious Sports, on the Lord's-Days; (that Reproach of his, and his Son's Reigns): And, if ſome gueſs right, the Foundation of the Ruine of that un<g ref="char:EOLhyphen"/>happy Prince. And when he turn'd off from tantalizing of <hi>Spain,</hi> he appli'd to a Daughter of <hi>France:</hi> Such a Biggot was ſhe to the <hi>Romiſh</hi> Religion, and ſuch an
+<pb n="36" facs="tcp:43146:23"/> Aſcendant had ſhe over his Son, her Huſ<g ref="char:EOLhyphen"/>band, <hi>Charles</hi> the Firſt, that all Things ran in the like Channel, for Popery, and Profaneneſs, and with a greater Torrent; witneſs repeated Proclamations, in favour of both: And tho' God gave ſignal No<g ref="char:EOLhyphen"/>tices of his Diſpleaſure againſt that Fa<g ref="char:EOLhyphen"/>mily, in Ways I need not name; yet the Return of <hi>Charles</hi> the Second, after all the ſham Pretences to the contrary, iſſu<g ref="char:EOLhyphen"/>ed in favour of Popery, and greater Pro<g ref="char:EOLhyphen"/>faneneſs, and Debauchery. I have been aſſured, a Clergy-Man of that Commu<g ref="char:EOLhyphen"/>nion, did in a Frolick freely ſay, That it was agreed by their Politicians, that they had no hope to introduce their Re<g ref="char:EOLhyphen"/>ligion here, but by Atheiſm, Irreligion, and Debauchery of the Gentry, and Cler<g ref="char:EOLhyphen"/>gy; which, by a variety of Means, they brought about ſo effectually, that all ſorts of Wickedneſſes were now barefac'd, da<g ref="char:EOLhyphen"/>ring the Sun<g ref="char:punc">▪</g> in the laſt Reigns, to the great Grief of many of the Reverend true Sons of the Church: Now Swearing, Curſing, Damning, Whoring, Sabbath<g ref="char:EOLhyphen"/>breaking, hating, reviling, and perſecu<g ref="char:EOLhyphen"/>ting of all ſerious Godlineſs, were grown
+<pb n="37" facs="tcp:43146:23"/> very modiſh, and very faſhionable Things, rode in Triumph, above the Controul of thoſe that ſhould have atteſted them.</p>
+            <p>4. Another great Impediment, was, that when this Revolution came upon us, over all the Mountains of Difficulty, and Diſcouragement, in ways we looked not for, ſo little was at firſt done to reform the Court, City, Country, Army, Navy, Magiſtracy, and Miniſtry: 'Tis true, we made a glorious Step about our Judges, (the Honour of the Courts they ſit in;) But did we not ſtick there? I am told, that the Politicks that ſtopt us there, and kept us from a further, and fuller Refor<g ref="char:EOLhyphen"/>mation, were ſuch as theſe. This was to begin at the wrong End, which the Na<g ref="char:EOLhyphen"/>tion would not yet bear: We muſt firſt ſettle the Throne, eſtabliſh the Govern<g ref="char:EOLhyphen"/>ment, and then reform what was amiſs in Religion, and the Morals of Men. And I have been told, that theſe Politicks were carried over into a Neighbour Nation, for a Meaſure of their Proceedings; and were propoſed, and were too like to take there alſo; but that a Great Man ſtood up, and ſignalized himſelf, by ſaying, <hi>Let
+<pb n="38" facs="tcp:43146:24"/> us do God's Work first, and trust him with ours; let us reform, and God will ſettle us.</hi> And what hath ſince befallen them, and us, under our different Me<g ref="char:EOLhyphen"/>thods, may tell us who were in the right: For I will confeſs, that when God did not go out with us, as before: When Succeſs was withdrawn from us, I had many ſearching Thoughts about the Cauſe of it; and found Reaſon to acquieſce in the Diſ<g ref="char:EOLhyphen"/>covery God made by our Prophet <hi>Hag<g ref="char:EOLhyphen"/>gai,</hi> in a Caſe not unlike ours, <hi>Hag. 1. ver.</hi> 4, 6, 10, 11. But this may ſeem above my Sphere, and therefore I will not preſume ſo much, as to open the Words; much leſs apply them to my Superiours, who may have other Thoughts of theſe Things, if they do not conſider this Text, in the Sence I have done.</p>
+            <p>5. Another Impediment was, the Re<g ref="char:EOLhyphen"/>proach the worſt of Men caſt upon theſe Honourable Societies; branding them for <hi>Informers,</hi> a Name a late Reign had juſtly rendred moſt odious: For when their <hi>Dia<g ref="char:EOLhyphen"/>na,</hi> Popery, and Profaneneſs, had a hope<g ref="char:EOLhyphen"/>ful Proſpect; they found there was a ſort of Perſons, (the Remains of the old <hi>Puri<g ref="char:EOLhyphen"/>tans</hi>)
+<pb n="39" facs="tcp:43146:24"/> who were not fully of the Way of the Eſtabliſhed Church (which they thought wanted <hi>a fuller Reformation</hi>); who by their Preaching, and Living, gave great Rebuke to what was doing; Ways were found to diſcourage theſe Men, Laws procured, Informers encouraged, and ma<g ref="char:EOLhyphen"/>ny Perſons, and Families, ruined.</p>
+            <p>And as the Men called by that Name, and animated to that Work, were of the Firſt-born of the Devil, the vileſt of bad Men; ſo their Buſineſs had juſtly rendred them the Contempt of all that were not in a great meaſure like themſelves; and the Name <hi>Informer,</hi> brought no Idea to Mens Minds, but what was horrid and abominable: Theſe Societies advancing to their excellent Undertaking, in this Jun<g ref="char:EOLhyphen"/>cture of Affairs, were inſtantly ſtigmati<g ref="char:EOLhyphen"/>zed with that Name: As if the Mobb it ſelf could not diſtinguiſh between an In<g ref="char:EOLhyphen"/>former engaged to ruine good Men for Godlineſs<g ref="char:punc">▪</g> ſake; and an Informer (for ſo he muſt be call'd) engaged to detect, convict, correct, and reform the vicious Lives and Manners of Men: And had not theſe Men been of a more excellent Spi<g ref="char:EOLhyphen"/>rit,
+<pb n="40" facs="tcp:43146:25"/> advanced above the Reproaches of Men, this Project could not but have pe<g ref="char:EOLhyphen"/>riſh'd here: I will confeſs for my ſelf, that the Notice of it, cauſed me to aban<g ref="char:EOLhyphen"/>don further Hopes of them, and it; but am glad I am ſo happily deceiv'd.</p>
+            <p>6. And <hi>Laſtly,</hi> When the firſt Seaſon, at the beginning of this happy Revolution, was ſo far ſlipt, and ſo little done towards the reforming a vicious Army, Navy, Court, City, and Country; there were vigorous Overtures made, by our excel<g ref="char:EOLhyphen"/>lent King, and Nonſuch Queen, to retrieve this falſe Step: I need not recite their vi<g ref="char:EOLhyphen"/>gorous Application, to Officers Sacred, and Civil; but how their, and our rea<g ref="char:EOLhyphen"/>ſonable Hopes, were totally baffled, I need not ſay. Whether, as ſome ſay, the Reformation was put into Hands that needed it, and were heartily againſt it; or whether they looked upon Wickedneſs as got above their Controul, I am loth to ſay; but this I muſt ſay, that in all my Sphere, (which was not the narrow<g ref="char:EOLhyphen"/>eſt) I knew no Inſtances of any Attempts, made by theſe Men, towards it. Howe<g ref="char:EOLhyphen"/>ver, my Deſign is not to reflect upon
+<pb n="41" facs="tcp:43146:25"/> any Eccleſiaſtical, or Civil Adminiſtra<g ref="char:EOLhyphen"/>tors, in whoſe Hands the Work ſucceeded not: May God cauſe them to reflect, to ſee whether they did their utmoſt in it; for when ſuch Overtures fail of their deſi<g ref="char:EOLhyphen"/>red End, they render what was but diffi<g ref="char:EOLhyphen"/>cult before, next to impoſſible afterwards; and ſo our Reformers found it: And no Courage, and Greatneſs of Mind, but what was like theirs, could have (humanly ſpeaking) brought it to a better iſſue. But is any thing done, ſo much done, in deſpite of all theſe Difficulties, and Diſ<g ref="char:EOLhyphen"/>couragements? why ſhould you not take Heart? You may remember, that the Succeſs the Great <hi>Alexander</hi> had againſt the Great (I had almoſt ſaid Greater) <hi>Da<g ref="char:EOLhyphen"/>rius,</hi> fluſh'd him with freſh Vigour, to purſue his Victories over unknown Coun<g ref="char:EOLhyphen"/>tries. Did not <hi>Caeſar</hi>'s Succeſſes fortifie his ſtout Mind, under, and againſt ſuc<g ref="char:EOLhyphen"/>ceeding Difficulties? the Fear and Danger of the proud Waves, were not to terrifie, where <hi>Caeſar,</hi> and his Fortunes, were to be conſerv'd: And tho' I have little of the Deference to thoſe Great Men, which I had when a School-Boy, employ'd in the
+<pb n="42" facs="tcp:43146:26"/> Encomiums their Admirers gave of them; becauſe I now eaſily ſee the Luſt, the Cru<g ref="char:EOLhyphen"/>elty, the Arbitrary Invaſion of other Mens Rights, and Properties, by which they were notoriouſly acted: Yet I would learn from them (as bad as they were) to take reaſonable Encouragement from former Succeſſes, to future Enterpri<g ref="char:EOLhyphen"/>zes; eſpecially where they are good like yours.</p>
+            <p>2. A Second Motive to ſtir up all, both Magiſtrates, Miniſters, and People, to joyn Heart and Hand herein, is to con<g ref="char:EOLhyphen"/>ſider how much is yet to do, and of what kind it is: For there is an Inforcement in it both ways conſidered; tho' Wicked<g ref="char:EOLhyphen"/>neſs be (Praiſe to God, and Thanks to our Reformers) put under great Rebuke, for<g ref="char:EOLhyphen"/>ced to ſeek its Corners, ſhelter itſelf in lurking Holes; yet we have reaſon to think that many act cautiouſly, which do not live vertuouſly<g ref="char:punc">▪</g> the Rule of the Cautious is, <hi>Si non caſtè tamen cautè:</hi> Now if it be connived at there, it will ſoon (like Vermine) creep abroad again: And if you do not drive it out of its dark Corners, into which you have helped to drive it, what can we hope
+<pb n="43" facs="tcp:43146:26"/> for? And pray obſerve, that this kind of Work calls for more inquiſitive Search, and private Application than was needful, when Immorality walk'd barefac'd, was ſeen in every open Place, might be found without looking for: And more Hands are, on that Account, yet neceſſary; the Lord awaken us to uſe them, and to help you with them.</p>
+            <p>III. <hi>Thirdly,</hi> Conſider by way of In<g ref="char:EOLhyphen"/>forcement, to a vigorous Activity herein; the great Benefit, and Advantage, that hath, and may accrue, from what is, and may yet be done in this Matter; if you reſpect.</p>
+            <p n="1">1. The Intereſt, and Honour of God; which is ſo daringly run upon, by the Wickedneſſes you are endeavouring to re<g ref="char:EOLhyphen"/>form: When theſe Vices bid Defiance to God, affront, and pour Contempt upon his Laws, and Government; they make the Great GOD ſeem mean, and look contemptible; as the laſt of the Prophets hath abundantly ſhewn. Now hath this Father any Child here, that is uncon<g ref="char:EOLhyphen"/>cern'd for his Honour, and Intereſt? It may be a Baſtard, it cannot be a Legiti<g ref="char:EOLhyphen"/>mate
+<pb n="44" facs="tcp:43146:27"/> Son: If therefore you have any De<g ref="char:EOLhyphen"/>ference for God, any hearty Concern for his neglected Intereſt, and Honour, any Good-will to his Name, that is blaſphe<g ref="char:EOLhyphen"/>med; his Sabbaths, which are profaned; his other Laws, that are openly, and con<g ref="char:EOLhyphen"/>temptuouſly violated: Sure you will up and be doing. Is not this God your Owner, your daily Benefactor? Are not you his Stewards, his accountable Stewards? And will you not ſtir at ſuch a time, in ſuch a Caſe as this, that ſo nearly concerns your God, and Father? Will you pretend Re<g ref="char:EOLhyphen"/>verence to your Father, and yet ſuffer his Honour to be thus troden in the Dirt?</p>
+            <p n="2">2. If you reſpect the Good of ſo great a part of Mankind, now ſunk into Bru<g ref="char:EOLhyphen"/>tiſh Senſuality: Who knows, but it may be a Means to recover them out of this Snare of the Devil, who <hi>are taken Captive</hi> (or taken alive, as in the Margin) <hi>by him, at his Will,</hi> 2 Tim. 2. 26. The Word we tranſlate <hi>Recover,</hi> ſigni<g ref="char:EOLhyphen"/>fying, to recover from Madneſs<g ref="char:punc">▪</g> 
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> Shame, may bring him to a right Mind<g ref="char:punc">▪</g> and to awake out of a drunken Sleep <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> They are doſed, ſtupified; Shame, and
+<pb n="45" facs="tcp:43146:27"/> Puniſhment may rouze them; of which we have frequent Examples, if this were a place for them: However, we may rea<g ref="char:EOLhyphen"/>ſonably expect, a Threefold Advantage to our debauched Neighbours from hence: It may prevent.</p>
+            <list>
+               <item>1. The preſent Ruine of his Body.</item>
+               <item>2. The neceſſary Ruine of his Eſtate.</item>
+               <item>3. The aggravated Ruine of his Soul, (at leaſt).</item>
+            </list>
+            <p>Need I tell them, or you, that Drun<g ref="char:EOLhyphen"/>kenneſs, Whoredom, and ſuch-like Im<g ref="char:EOLhyphen"/>moralities, have a Natural Tendency, as well as a Moral procuring Efficacy, to ruine both Body, Soul, and Eſtate: How oft have the Diſeaſes of a macerated Bo<g ref="char:EOLhyphen"/>dy, and the ſmall Remains of a waſted Eſtate, told the World, what theſe Sins bring to? The Marks of the Sin, are legi<g ref="char:EOLhyphen"/>ble in the Puniſhment: And is it nothing to ſave him from ruining Poverty, and Rottenneſs in his Bones? and that increaſe of Torment, which multiplied Sin would lay him under? Is this thy Kindneſs to thy Friend? to thy Neighbour? His Caſe, the Caſe of his Family, calls for Help and Pity; And haſt thou no Bowels?</p>
+            <pb n="46" facs="tcp:43146:28"/>
+            <p>3. If you reſpect the Good and Wel<g ref="char:EOLhyphen"/>fare of the Nation, and of this great City, of which you are Members. If you had never ſeen your Bibles, had read only the <hi>Roman</hi> Hiſtories, you might ſee to what a glorious Height, ſevere Vertue advan<g ref="char:EOLhyphen"/>ced them; and how ſoon their Proweſs, Courage, Succeſs, and Grandeur, ſunk to nothing, when they let looſe to the Debaucheries, ſo long countenanced, and practiſed amongſt us. By Vertue they advanced, 'till they were the Envy of the World; by Vice they ſunk, 'till they be<g ref="char:EOLunhyphen"/>came the Contempt of all. And this was in the Nature of the Thing, as well as from a Judicial Act of God: Vice did it, as well as provoked God to do it.</p>
+            <p>Our Bibles, that teach us better Things than their Twelve Tables, are not ſparing in this Diſcovery: Is the Old World, is <hi>Sodom,</hi> are the <hi>Canaanites</hi> ruined? Is <hi>Sa<g ref="char:EOLhyphen"/>maria, Judah, Jeruſalem,</hi> to name no more, weakned, impoveriſhed, and brought low? You are Strangers to your Bibles, if you know not, that Sin was the Cauſe. Si<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the Shame, and Reproach, of any Na<g ref="char:EOLhyphen"/>tion; it bringeth it into Reproach, and
+<pb n="47" facs="tcp:43146:28"/> into a State fit to be deſpiſed: When as <hi>Righteouſneſs,</hi> greatens, heightens, and <hi>ex<g ref="char:EOLhyphen"/>alteth a Nation,</hi> Prov. 14. 34. God will not long honour them, with happy and felicitating Circumſtances, that pour Con<g ref="char:EOLhyphen"/>tempt, and Diſhonour, upon him and his righteous Laws.</p>
+            <p>This Prophet furniſheth us with a Paſ<g ref="char:EOLhyphen"/>ſage, highly adapted to our preſent Caſe, <hi>Hag.</hi> 1. 2. The People had diſcharged themſelves from the Lord's Work; <hi>The time is not yet:</hi> This is not a favourable Juncture for Reforming Attempts; they will ſuffer Irreligion, and Immorality, to take their Swinge, (not but that they in<g ref="char:EOLhyphen"/>tend better Things, in better Times).</p>
+            <p>This was their Courſe towards God, provoking enough: What was God's to<g ref="char:EOLhyphen"/>wards them? How proſpered they in their Trade and Commerce? Were they in a thriving way, whilſt unreformed, and void of Care about it? Hear the Prophet, Ver. 6. <hi>Now therefore conſider your ways,</hi> (or ſet your Heart on your Ways, as the <hi>Hebrew</hi> hath it;) <hi>q. d.</hi> (and it was from the Lord he ſaid it), you take your ſelves for wiſe, and great Politicians; no doubt
+<pb n="48" facs="tcp:43146:29"/> you think your ſelves altogether in the right, againſt me, after all my Prophets can ſay, to bring you to a better Courſe; ſuch a one as that wherein you might proſper: But pray obſerve what you ſee and feel, without ſeeing the Cauſe: <hi>Ye have ſou n much, and bring in little; ye eat, but you have not enough; ye drink, but ye are not filled with Drink; ye cloath you, but there's none warm; and he that earn<g ref="char:EOLhyphen"/>eth Wages, earneth Wages to put it into a Bag, with Holes.</hi> (Or as the <hi>Hebrew</hi> pierſed through), Ver. 9. <hi>Ye looked for much, and lo it came to little, when you brought it home, I did blow upon it:</hi> (Or as it may be read) I blow'd it away; it came to nothing, it did you no good.</p>
+            <p>I may not ſtay to Paraphraſe theſe, and and ſeveral other Verſes of the ſame im<g ref="char:EOLhyphen"/>port, ſcattered here and there in this Pro<g ref="char:EOLhyphen"/>phecy, <hi>chap.</hi> 1. and <hi>chap. 2. ver.</hi> 10, 11. But they plainly notifie, the unproſperous and calamitous State they were in, under that Curſe of God, which their neglect of Reformation had brought them under: As he plainly tells them, (<hi>chap. 2. v.</hi> 16, 17.) And the way to have it better, 18,
+<pb n="49" facs="tcp:43146:29"/> 19. And bids them conſider it, again and again; that tho' his Hand had been upon them, and they had felt it every way ſo heavy, yet they had not ſo much as thought of that Sin, which procured it upon them. Things went ill, but Sin was not the Cauſe; Things happen by Chance, ill Conduct; And how can we help it? paſt Cure, paſt Care; yet Sin, the pro<g ref="char:EOLhyphen"/>curing, and God, the efficient Cauſe of their bad Caſe, were overlook'd. How<g ref="char:EOLhyphen"/>ever, if now, after all, they will ſet about God's Work, he will proſper them, he will not be behind hand with the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; no, not a Day, <hi>Chap.</hi> 2. 18. From this Day will I bleſs you, <hi>Chap.</hi> 2. 19.</p>
+            <p>I am with more Regret taken off from a due Enlargement on this, becauſe I ve<g ref="char:EOLhyphen"/>rily fear it is too much our Caſe: May God put it into the Heads, and Hearts of Governours, Supream, as well as Subor<g ref="char:EOLhyphen"/>dinate, that we might (tho' it be late) be<g ref="char:EOLhyphen"/>gin at the right end; recover thoſe faulty Steps we have taken to bring us into this State of Things, both at Home and A<g ref="char:EOLhyphen"/>broad. Does not every one feel, and as feelingly complain of the Judgments we
+<pb n="50" facs="tcp:43146:30"/> have, and yet do labour under? Our un<g ref="char:EOLhyphen"/>parallel'd Calamity, in, and about our Coyn; our Loſs of Trade by Land, our Loſſes by Sea; our Expence in the War; the Treachery of ſome intruſted: Nay, where do Complaints end? And not<g ref="char:EOLhyphen"/>withſtanding that ſo good a King, (I think it no Flattery to ſay, the beſt I hear of now in the whole World) and ſome excellent Men, that are neareſt to him, can do to eaſe us, we are but where we feel our ſelves? What Fatigues do they endure? What Hazards doth he run? And how little comes in by all? It's blown upon, it's blown away: One inveighs againſt one Instrument, another againſt a ſecond; but who looks into our unre<g ref="char:EOLhyphen"/>formed State, as the trueſt Cauſe of all this? Or who endeavours a National Re<g ref="char:EOLhyphen"/>formation; from which we might date our wiſhed Retrieve: The Retrieve of our Trade at Home, and Abroad; of our abated Succeſſes by Sea, and Land: Nay, how many Hands are yet unimploy'd in this narrower Reformation, you have ſo happily ſet a going? Let me ſpeak freely, that as the Sins of ſome Kings have had a
+<pb n="51" facs="tcp:43146:30"/> ruining Influence upon their People; ſo the Sins of many a wicked People, have had a hand to weaken, diſappoint (if not ruine) good Kings; Kings better than their People: So that if you would ſhew your ſelves <hi>Friends to Caeſar,</hi> Friends to ſo good a King, this is one of the beſt ways you can take, truly to ſerve him. Is it not pity ſo Heroick a Prince, one on whoſe Life ſo much depends, ſhould do ſo much, hazard himſelf ſo often by Sea, in the Camp, and in the High-places of the Field; put him<g ref="char:EOLhyphen"/>ſelf ſo frequently amongſt the hotteſt Fi<g ref="char:EOLhyphen"/>rings, to ſecure our Properties and Liber<g ref="char:EOLhyphen"/>ties, our Religion and Lives; and have it all blown upon, and blaſted for our Sakes, for our Sins? If you will not up to your Work, for God's ſake, for your Neigh<g ref="char:EOLhyphen"/>bour's ſake, for your Nation's ſake, for Poſterity's ſake, do it for the King's ſake: For if we ſtill do wickedly, <hi>Both we, and our King ſhall periſh.</hi> However, let me leave this with you, as the moſt hope<g ref="char:EOLhyphen"/>ful way to prevent his, and our bodeing Ruine; and to render us yet again a flou<g ref="char:EOLhyphen"/>riſhing and happy Nation; ſuch as a holy God may with Honour own, and ſtand
+<pb n="52" facs="tcp:43146:31"/> by, and ſave; thô in a way of Preroga<g ref="char:EOLhyphen"/>tive: For I know not any other way, in which 'tis to be done. I am loth to leave you almoſt perſwaded, and yet my pre<g ref="char:EOLhyphen"/>ſcribed Minutes forbid me to add much more. However, let me try the Motive in the Text, the laſt in our propoſed Order.</p>
+            <p>
+               <hi>Laſtly,</hi> Conſider God will be with you: So indeed the Prophet ſaid to <hi>Zerubbabel,</hi> and his Helpers: And it was, no doubt, their great Encouragement; and would be yours, if I could make out your Title to his Preſence, as he did theirs. In this you will reckon, I muſt make great Abatement: And I, at firſt, thought I muſt have made greater, than now I ſee I need to make: For tho' I am neither Prophet, nor Pro<g ref="char:EOLhyphen"/>phet's Son<g ref="char:punc">▪</g> pretend to no immediate Com<g ref="char:EOLhyphen"/>miſſion from Heaven; yet I find to your Encouragement, and mine, that tho' this looks like a peculiar perſonal Promiſe, not to be extended to any other Perſons, in any other (thô like) Caſes; yet, I think, it will not be found ſo: For I find this ve<g ref="char:EOLhyphen"/>ry Promiſe made to <hi>Joſhua,</hi> by <hi>Moſes,</hi> Deut. 31. 23. <hi>And I will be with thee;</hi> meaning God, not <hi>Moſes.</hi> And <hi>v.</hi> 6. He <hi>will not
+<pb n="53" facs="tcp:43146:31"/> fail thee, nor forſake thee.</hi> And, <hi>Joſh.</hi> 1. 5. God himſelf repeats it to <hi>Joſhua, I will be with thee, I will not fail thee, nor forſake thee.</hi> And if this be Exegetical of the former, we find this par<g ref="char:EOLhyphen"/>ticular Promiſe extended to all that are good Men, <hi>Heb.</hi> 13. 5. It's uſed as an Argument for Content, to all that need it: <hi>For he hath ſaid, I will never leave thee, nor forſake thee:</hi> So that we may boldly ſay, <hi>The Lord is my Helper:</hi> A Helper to every one in particular, as well as to all in general. Mark the turn, the change of the Number, <hi>We</hi> ſay, my Helper.</p>
+            <p>Now if God be with good Men, with eve<g ref="char:EOLhyphen"/>ry good Man, in every good Work (and here's no reſtriction): I may ſay, after all this ſtrug<g ref="char:EOLhyphen"/>gle, as the Prophet, <hi>The Lord will be with you:</hi> nay, is with you in your Work; for it's his. Having clear'd up your Title to the Promiſe, let us ſee what is in it; what the better you ſhall be for it. It hath all in it, that is poſſible to be in a Promiſe; to have a God with us, that is All-ſufficient, it is enough: What would you wiſh for more? I who am wiſe enough to counſel thee, able enough to afford thee inward Support, and outward Aſſiſtance, and an abundant Recompence: I will be with you, engaged for you; nay, for my ſelf, it's my Work as well as yours; it's only yours, becauſe it's mine. I hope you have, and will look to your own Hearts, that they be right with God; to ſee you be of upright
+<pb n="54" facs="tcp:43146:32"/> Hearts, as well as blameleſs Converſation; do more at Home, than you can hope to do Abroad: And if ſo, this great God will be with thee, to every gracious Purpoſe: And one encouraging Word I have for you, when diſappointed of the Succeſs you aimed at, your Reward ſhall not be loſt, tho' your Work ſucceed not, to your deſired End: Suppoſe, after all thy Endeavours, thy hard<g ref="char:EOLhyphen"/>ned Neighbours ſhould remain as wicked as thou foundeſt them: No Shame, no Pain, no Puniſhment will reclaim them; and leave thee Reaſon only to lament, that all, as to God, to Them, to the King, and Kingdom, is loſt, and in vain; yet, I tell you, to you it ſhall not be in vain. As it is with us, in our diſcouraging Function, ſo I find it was with good <hi>Joſias,</hi> that Reforming Prince: And ſo I verily reckon you will find it, tho' I want time to open the Grounds on which you may hope for it; only read for us, <hi>Iſai.</hi> 49. 5. 2 <hi>Cor.</hi> 2. 15, 16.</p>
+            <p>For <hi>Joſias,</hi> read 2 <hi>Kings</hi> 22. 19, 20.</p>
+            <p>And conſider with your ſelves, tho' Duty be <hi>yours,</hi> Succeſs is <hi>his;</hi> and <hi>your</hi> Reward will be according to <hi>your</hi> Work, not according to <hi>his.</hi>
+            </p>
+            <p>Chriſtians, may I reckon of you as Perſons honeſtly devoted to do the Will of God, to work Righteouſneſs, to have Reſpect to all the Commands of God: (I have not given you
+<pb n="55" facs="tcp:43146:32"/> your right Character, if I may not). Now how can you maintain this Character towards God, the World<g ref="char:punc">▪</g> or your own prying Conſci<g ref="char:EOLhyphen"/>ence, (that Spy that dogs you, and of whom you will certainly hear one of theſe Days); if you dare ſtatedly continue in the daily neg<g ref="char:EOLhyphen"/>lect of ſo plain a Duty, and of ſuch momen<g ref="char:EOLhyphen"/>tous Concernment to God, and the World: Is not this the beſt Characteriſtick thou haſt to try thy Sincerity by? And dareſt thou leave thy ſelf to the Aſſaults that Satan; nay, thy own Conſcience may truly attack thee with in a dying Bed? What partial in the Law, and yet ſincere? Thou Hypocrite, may they ſay, how can this be? And what wilt thou anſwer? Do not (for any Reaſonings I have not time to obviate) arm the Devil, and thine own Con<g ref="char:EOLhyphen"/>ſcience, with ſuch an Evidence of thy Hypo<g ref="char:EOLhyphen"/>criſie; for God is greater than thy Conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <p>Well, Sirs, we muſt part: I ſhould be glad to bring to you ſome iſſue: What will you now do? (Now, I ſay, without delay?) I was not without Fear, before I appeared before you; leaſt I ſhould not be able to prevail with you, to engage in a Work ſo unacceptable to Fleſh and Blood: And are there no Cauſes for ſuch Fears yet to be found amongſt this great Aſ<g ref="char:EOLhyphen"/>ſembly? Let me freely tell you, that theſe Fears drew Tears from mine Eyes more than once, before I came hither; if I ſhould ma<g ref="char:EOLhyphen"/>nage
+<pb n="56" facs="tcp:43146:33"/> this Matter ſo, as to leave my Hearers as I found them; What ſhall I ſay either for mine own mean Performance, or their Refuſal? How loth ſhall I be, to bring in Evidence againſt any one of you, when this Sermon muſt be heard again, and reckoned for! I ought not, I think, to let thee know <hi>this,</hi> but in hopes to prevent <hi>that.</hi> Well, once for all, Up, and be doing; embrace, nay, ſeek out Opportunities, to rebuke, and reclaim remain<g ref="char:EOLhyphen"/>ing Debauchery: And if this be thy plain Du<g ref="char:EOLhyphen"/>ty, capable of being ſo powerfully impreſt up<g ref="char:EOLhyphen"/>on thee; if God, and Conſcience, have let thee know, what he expects from thee, have a Reverence for both, tho' thou art excited to it, by no better a Hand than this. Awake, Rouze up: <hi>Be ſtrong, O Zerubbabel, ſaith the Lord; and be ſtrong, O Joſhua, Son of Joſedech, the High-Priest; and be ſtrong all ye People of the Land, ſaith the Lord, and work: For I am with you, ſaith the Lord of Hoſts.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 15. l. 10. for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <pb facs="tcp:43146:33" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
